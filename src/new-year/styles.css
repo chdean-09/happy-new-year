@@ -45,13 +45,13 @@ span.old{
   position: absolute;
   top: 50%;
   right: 50%;
-  margin-right: -200px;
+  margin-right: -230px;
   animation: vai_2016 5s ease-in-out 5s forwards;
 }
 span.new{
   position: absolute;
   right: 0%;
-  margin-right: -200px;
+  margin-right: -230px;
   animation: vem_2017 6s ease-in-out forwards;
 }
 span.new:before{
@@ -79,7 +79,7 @@ span.new:before{
   top: 50%;
   margin-top: -165px;
   right: 0%;
-  margin-right: -200px;
+  margin-right: -230px;
   animation: vem_e_vai_balao 10s ease-in-out forwards;
 }
 .balao:before{
@@ -214,11 +214,11 @@ a.author{
   }
   66.6666% {
     right: 50%;
-    margin-right: -300px;
+    margin-right: -345px;
   }
   90% {
     right: 50%;
-    margin-right: -300px;
+    margin-right: -345px;
   }
   100% {
     right: 50%;
@@ -230,11 +230,11 @@ a.author{
   }
   40% {
     right: 50%;
-    margin-right: -300px;
+    margin-right: -345px;
   }
   50% {
     right: 50%;
-    margin-right: -200px;
+    margin-right: -230px;
     top: 50%;
   }
   100% {
